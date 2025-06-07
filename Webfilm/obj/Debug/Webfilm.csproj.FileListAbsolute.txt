@@ -1,0 +1,13 @@
+C:\Users\PC\OneDrive\Pulpit\Webfilm\Webfilm\bin\Debug\Webfilm.exe.config
+C:\Users\PC\OneDrive\Pulpit\Webfilm\Webfilm\bin\Debug\Webfilm.exe
+C:\Users\PC\OneDrive\Pulpit\Webfilm\Webfilm\bin\Debug\Webfilm.pdb
+C:\Users\PC\OneDrive\Pulpit\Webfilm\Webfilm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\OneDrive\Pulpit\Webfilm\Webfilm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\OneDrive\Pulpit\Webfilm\Webfilm\obj\Debug\Webfilm.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Pulpit\Webfilm\Webfilm\obj\Debug\Webfilm.Form1.resources
+C:\Users\PC\OneDrive\Pulpit\Webfilm\Webfilm\obj\Debug\Webfilm.Properties.Resources.resources
+C:\Users\PC\OneDrive\Pulpit\Webfilm\Webfilm\obj\Debug\Webfilm.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Pulpit\Webfilm\Webfilm\obj\Debug\Webfilm.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Pulpit\Webfilm\Webfilm\obj\Debug\Webfilm.csproj.Up2Date
+C:\Users\PC\OneDrive\Pulpit\Webfilm\Webfilm\obj\Debug\Webfilm.exe
+C:\Users\PC\OneDrive\Pulpit\Webfilm\Webfilm\obj\Debug\Webfilm.pdb
